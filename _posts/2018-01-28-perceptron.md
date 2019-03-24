@@ -70,5 +70,6 @@ Here's another image using Kramdown:
 Here's some math:
 
 $$z=x+y$$
+$$x_{h} = 2 ^ {5} + \frac{1}{x + 3}$$
 
 You can also put it inline $$z=x+y$$
