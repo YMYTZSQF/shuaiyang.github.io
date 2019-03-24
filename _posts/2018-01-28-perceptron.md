@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/dataoptimal)?
+Add a  [link](https://github.com/dataoptimal)?
 
 Here's a bulleted list:
 * First item
@@ -46,6 +46,17 @@ R code block:
 library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
+```
+
+C++ code block:
+```c++
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+      cout<<"abc"<<endl;
+      return 0;
+    }
 ```
 
 Here's some inline code `x+y`.
